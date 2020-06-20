@@ -11,4 +11,4 @@ explain some tour place:
 
 #27062019 #androidstudio
 
-<img src="https://drive.google.com/file/d/103w4TUvA_RB4aYLNAvyAWuXWvPaeJVP-/view?usp=sharing"/>
+![Screenshot_2020-06-17-00-39-42](https://user-images.githubusercontent.com/55612231/85193578-21f9ba00-b2f4-11ea-83bb-6ac182558332.png)
