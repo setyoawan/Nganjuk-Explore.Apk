@@ -1,5 +1,6 @@
 # Nganjuk-Explore.Apk
 application based on android platform build using android studio. application about information tour some place in Nganjuk regency.
+mysql db and based on website for back end, android studio for design interface and fetch data from back end.
 
 explain some tour place:
 1. Alam
